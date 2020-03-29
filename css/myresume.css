@@ -8,6 +8,7 @@ h1,h2,h3,h4,h5,h6{
 }
 h1{
 	font-size:5.5rem;
+        color: #284391!important;
 }
 
 .subheading{
@@ -17,7 +18,7 @@ h1{
     background-color: #101b3a!important;
 }
 .text-primary {
-    color: #101b3a!important;
+    color: #487fba!important;
 }
 a{
    color:#2e69ec;
