@@ -15,7 +15,9 @@ h1{
 	font-family:'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-    background-image: url("img/00000.png");
+    background-color: #3870bd;
+	background-image: url("img/00000.png");
+	
 }
 .text-primary {
     color: #487fba!important;
