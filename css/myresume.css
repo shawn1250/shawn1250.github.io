@@ -15,9 +15,8 @@ h1{
 	font-family:'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-    background-color: #3870bd!important;
-	background-image: url('img/black-linen.png');
-	
+   background-color: #5c7fc4!important;
+   background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");		
 }
 .text-primary {
     color: #487fba!important;
