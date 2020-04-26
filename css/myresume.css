@@ -27,3 +27,6 @@ a{
 .table {
 	text-align: center;
 }
+tr:nth-child(even) {
+  background-color:#6c99f1e3;
+}
