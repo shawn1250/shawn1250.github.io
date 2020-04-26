@@ -30,8 +30,8 @@ a{
 tr:nth-child(even) {
   background-color:#ffffff;
 }
-tr:nth-child(odd) {
-  background-color:#ffffff;
+tr:nth-child(even) {
+  background-color:#b5d0ea;
 }
 .thead-light th {
   background-color:#e9ecef;
