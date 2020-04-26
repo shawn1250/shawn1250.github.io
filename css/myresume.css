@@ -27,11 +27,11 @@ a{
 .table {
 	text-align: center;
 }
-tr:nth-child(odd) {
-  background-color:#98b9fa;
-}
 tr:nth-child(even) {
   background-color:#f4f6f8;
+}
+tr:nth-child(odd) {
+  background-color:#98b9fa;
 }
 .thead-light th {
   background-color:#e9ecef;
