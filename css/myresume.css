@@ -30,8 +30,6 @@ a{
 tr:nth-child(even) {
   background-color:#b5d0ea;
 }
-
-.thead-light th {
-  background-color:#638eb7;
+.table-bordered thead th{
+     background-color:#638eb7;
 }
-	
