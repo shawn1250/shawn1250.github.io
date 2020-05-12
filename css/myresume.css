@@ -33,3 +33,7 @@ tr:nth-child(even) {
 .table-bordered thead th{
      background-color:#638eb7;
 }
+div#container {
+    display:flex;
+    flex-wrap: wrap;
+}
